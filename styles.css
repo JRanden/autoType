@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(48, 121, 255);
+    background-color: rgba(48, 120, 255, 0.823);
+    align-items:center ;
+    text-align: center;
 }
 
 h1 {
